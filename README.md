@@ -1,4 +1,12 @@
-# Hi, I'm Oybek 👋
+<h1 align="center">Hi, I'm Oybek Saydullayev 👋</h1>
+
+<p align="center">
+  <a href="https://t.me/osyllv"><img src="https://img.shields.io/badge/Telegram-@osyllv-2CA5E0?style=flat&logo=telegram&logoColor=white"/></a>
+  <a href="mailto:oybekjohn.01@gmail.com"><img src="https://img.shields.io/badge/Gmail-oybekjohn.01-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Location-Tashkent%2C%20Uzbekistan-green?style=flat"/>
+</p>
+
+
 
 I work with data — building pipelines, analyzing datasets, and creating dashboards. Currently teaching data analytics at NajotTalim while working on real-world data projects on the side.
 
@@ -26,15 +34,6 @@ I work with data — building pipelines, analyzing datasets, and creating dashbo
 **[smartup-etl](https://github.com/Saydullayev-Oybek/smartup-etl)** — ETL pipeline that pulls data from SmartUp ERP API, transforms it with pandas, and loads into PostgreSQL. Runs on Airflow + Docker. Covers products, orders, payments and more.
 
 **[PowerBI-projects](https://github.com/Saydullayev-Oybek/PowerBI-projects)** — HR dashboard built in Power BI using real employee data.
-
----
-
-## Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Saydullayev-Oybek&show_icons=true&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saydullayev-Oybek&layout=compact&hide_border=true" height="150"/>
-</p>
 
 ---
 
