@@ -34,8 +34,6 @@ I work with data — building pipelines, analyzing datasets, and creating dashbo
 
 **[smartup-etl](https://github.com/Saydullayev-Oybek/smartup-etl)** — ETL pipeline that pulls data from SmartUp ERP API, transforms it with pandas, and loads into PostgreSQL. Runs on Airflow + Docker. Covers products, orders, payments and more.
 
-**[PowerBI-projects](https://github.com/Saydullayev-Oybek/PowerBI-projects)** — HR dashboard built in Power BI using real employee data.
-
 ---
 
 📬 Telegram: [@osyllv](https://t.me/osyllv) · Gmail: oybekjohn.01@gmail.com
