@@ -26,6 +26,7 @@ I work with data — building pipelines, analyzing datasets, and creating dashbo
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Superset](https://img.shields.io/badge/Apache%20Superset-20A6C9?style=flat&logo=apache&logoColor=white)
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-0078D4?style=flat&logo=microsoft&logoColor=white)
 ![AI Agents](https://img.shields.io/badge/AI%20Agents%20😁-8A2BE2?style=flat&logo=openai&logoColor=white)
 
 ---
