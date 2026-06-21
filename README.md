@@ -8,12 +8,10 @@
 
 
 
-I work with data — building pipelines, analyzing datasets, and creating dashboards. Currently teaching data analytics at NajotTalim while working on real-world data projects on the side.
+I work with data — building pipelines, analyzing datasets, and creating dashboards.
 
 - Data Engineer / Data Analyst based in Tashkent
-- Python, SQL, Power BI are my main tools
-- I've built ETL pipelines with Airflow and PostgreSQL
-- Also teach: SQL, Python, Power BI
+- I've built ETL, ELT pipelines
 
 ---
 
